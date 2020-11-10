@@ -75,4 +75,5 @@ sub user_4 ; Kreismittelpunkt innen finden
 	#4205 = [[[#4204 - #4203]/2] + #4203]
 	G90
 	G0 Y[#4205]
+	G92 X0 Y0 ; Setze Werkstueck Nullpunkt
 endsub
