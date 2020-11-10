@@ -1,2 +1,2 @@
-# EdingCNC_3D-Taster_Macros_Testing
- 
+!!! ACHTUNG !!!
+Hier findest du Codesnipsel und Makros die nur am Simulator testet wurden. 
